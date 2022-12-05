@@ -4,6 +4,8 @@ A weather app created using OpenWeather API with node JS.
 ## Running the app:
 Command on terminal to run the app-
 `node app.js`
+
+
 ![image](https://user-images.githubusercontent.com/97759804/205671759-d7dfded0-ab70-4de9-9989-ca4237550cca.png)
 
 Run the app on localhost:3000 on browser:
