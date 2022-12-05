@@ -1,0 +1,42 @@
+html, 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
+
+#cityInput {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 10px 40px;
+
+    border: none;
+    background: rgb(228, 222, 222);
+    border-radius: 20px;
+
+    font-style: normal;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    size: 100%;
+    position: relative;
+}
+
+#sub {
+    position: fixed;
+    width: auto;
+    height: auto;
+    top: 1.75%;
+    left: 46%;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    background-color: #FD7C1F;
+    padding: 10px 40px;
+
+    font-size: 2rem;
+}
